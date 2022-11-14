@@ -1,0 +1,53 @@
+<html>
+<title></title>
+<head></head>
+<body>
+<script language = "javascript">
+<!--
+
+var a = 10
+var b = 20
+var linebreak = "<br/>"
+
+//Boolean//
+document.write("(a == b) =>")
+result=(a==b)
+document.write(result)
+document.write(linebreak)
+
+//Less Than//
+document.write("(a < b) =>")
+result=(a<b)
+document.write(result)
+document.write(linebreak)
+
+//Greater Than//
+document.write("(a > b) =>")
+result=(a>b)
+document.write(result)
+document.write(linebreak)
+
+//Not Equal to//
+document.write("(a ! = b) =>")
+result=(a!=b)
+document.write(result)
+document.write(linebreak)
+
+//Greater than or equal to//
+document.write("(a > = b) =>")
+result=(a>=b)
+document.write(result)
+document.write(linebreak)
+
+//Less than or equal to//
+document.write("(a <= b) =>")
+result = (a<=b)
+document.write(result)
+document.write(linebreak)
+document.write(linebreak)
+document.write("That was am awesome lesson")
+
+//-->
+</script>
+</body>
+</html>
